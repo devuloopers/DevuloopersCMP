@@ -1,0 +1,12 @@
+abi_version=2.2.0
+builtins_platform=WASM
+compiler_version=2.2.0
+depends=components.resources\:library components.ui-tooling-preview\:library org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel org.jetbrains.compose.material3\:material3 org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.androidx.lifecycle\:lifecycle-runtime-compose org.jetbrains.compose.animation\:animation org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.compose.runtime\:runtime-saveable org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.animation\:animation-core org.jetbrains.androidx.lifecycle\:lifecycle-runtime org.jetbrains.androidx.lifecycle\:lifecycle-common org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:kotlinx-browser org.jetbrains.kotlinx\:atomicfu org.jetbrains.compose.annotation-internal\:annotation androidx.annotation\:annotation kotlin org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.skiko\:skiko org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util
+ir_signature_versions=1,2
+jsOutputName=composeApp
+language_features=+JsAllowImplementingFunctionInterface +JsAllowValueClassesInExternals +MultiPlatformProjects
+metadata_version=1.4.1
+serializedIrFileFingerprints=34jgme310tukx.2d255gorccyyp 3bvj12k84w73s.1jkswn8lgvm8y cvgao9dvmd6p.jm686huils6o 3rgtyhni45nr4.1r49zz1vygnpq cnu92dxdkrnr.166qntjap22uh 2f0p7c8s3bvl8.1u5e4cy7k4thq 1mnaxabv6gmt3.1qh604d5m2m91 a8l0mfo4wtuu.2c3n6batcz3x8 ed130ca2zokf.3qo3oytxecxu4 2g593inyufrt9.3hs7x1uksl1cy 2t73cgxiws52x.atw2j59r30xd 1smn9orngwsr3.322osy6havnsk 2f9ixw53nrqli.1t25znntdceqs 1z2cs8x7sx6dv.lnumzvhcfykz 1zcs6e9rjsill.304jhubvkmzeb 22n4kn02d9eyl.1bs7yxvapeju 1vcbaaew9jzlz.kihwnle9yrp0 2mb6ttl9l4nit.3h0401wrlileb
+serializedKlibFingerprint=281flt6zgfalu.28wqt646808nz
+unique_name=DevuloopersCMP\:composeApp
+wasm_targets=wasm-js
